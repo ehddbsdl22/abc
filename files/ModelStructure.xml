@@ -1,0 +1,9 @@
+
+<ModelStructure MsgType="S_CLIENT" PortValue="IO_Type">
+  <NModel Name="abc.xml">
+    <Component Name="af" Type="Atomic" Class="C_Processor">
+      <Attribute Name="ID" Type="int" Value="0" />
+      <Attribute Name="ProcType" Type="int" Value="0" />
+    </Component>
+  </NModel>
+</ModelStructure>
